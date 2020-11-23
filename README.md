@@ -1,2 +1,2 @@
-# linameander95.github.io
-Lina Meander
+# Lina Meander
+linameander95.github.io
